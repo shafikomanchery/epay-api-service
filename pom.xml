@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.epay</groupId>
-    <artifactId>epay</artifactId>
+    <artifactId>epay-api-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>epay</name>
+    <name>epay-api-service</name>
     <description>Spring boot application for Easy Payments</description>
     <url/>
     <licenses>
